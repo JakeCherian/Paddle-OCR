@@ -45,18 +45,21 @@ Overall, the model offers a streamlined yet powerful tool for text recognition i
 
 
 ## Input & Output
+### Image 1
 
  <div class="image-container">
        <img src="test_1.jpg" alt="Logo" width="300" height="450"> 
        <img src="test_1_op.png" alt="Logo" width="300" height="450"> 
-       <img src="test_1_op_values.png" alt="Logo" width="300" height="450"> 
+       <img src="test_1_values.png" alt="Logo" width="400" height="200"> 
     </div>
 
+### Image 2
 
-### Product Photos
-<img src="testimg1.png" alt="Logo" width="600" height="337"> 
-<img src="testimg2.png" alt="Logo" width="600" height="337">
-<img src="testimg.png" alt="Logo" width="600" height="337">
+ <div class="image-container">
+       <img src="test_2.jpg" alt="Logo" width="300" height="450"> 
+       <img src="test_2_op.png" alt="Logo" width="300" height="450"> 
+       <img src="test_2_values.png" alt="Logo" width="400" height="200"> 
+    </div>
 
 
 ## Conclusion
