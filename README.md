@@ -65,4 +65,4 @@ Overall, the model offers a streamlined yet powerful tool for text recognition i
 ## Conclusion
 In conclusion, this model provides a highly effective solution for extracting text from images, combining image enhancement techniques with the robust capabilities of PaddleOCR. By improving image clarity through sharpness adjustments and resizing, it ensures higher OCR accuracy, making it ideal for handling challenging inputs like low-resolution or blurry images. The integration of confidence scores and visual bounding boxes offers users greater control and validation over the text detection process. Overall, this model is a versatile tool for automating text recognition in various domains, from document processing to data extraction.
 
-Project Link: 
+Project Link:  [https://github.com/JakeCherian/Paddle-OCR](https://github.com/JakeCherian/Paddle-OCR)
