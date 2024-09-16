@@ -46,22 +46,9 @@ Overall, the model offers a streamlined yet powerful tool for text recognition i
 
 ## Input & Output
 
-### Schematic
- <style>
-        .image-container {
-            display: flex;
-            gap: 20px; /* Adjust the gap between images */
-            justify-content: center; /* Optional: Centers images horizontally */
-            align-items: center; /* Optional: Vertically aligns images */
-        }
-        .image-container img {
-            max-width: 400%;
-            height: auto;
-        }
- </style>
-
  <div class="image-container">
        <img src="test_1.jpg" alt="Logo" width="300" height="450"> 
+       <img src="test_1_op.png" alt="Logo" width="300" height="450"> 
        <img src="test_1_op_values.png" alt="Logo" width="300" height="450"> 
     </div>
 
