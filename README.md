@@ -59,11 +59,10 @@ Overall, the model offers a streamlined yet powerful tool for text recognition i
             height: auto;
         }
  </style>
-<img src="test_1.jpg" alt="Logo" width="300" height="450"> 
 
  <div class="image-container">
        <img src="test_1.jpg" alt="Logo" width="300" height="450"> 
-       <img src="test_1.jpg" alt="Logo" width="300" height="450"> 
+       <img src="test_1_op_values.png" alt="Logo" width="300" height="450"> 
     </div>
 
 
